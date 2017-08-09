@@ -8,3 +8,4 @@ admin  123456
 开启队列 (使用通知)
 php artisan queue:work
 等于你要开启两个后台进程（elasticsearch.bat，php artisan queue:work）
+运行建议使用（php artisan serve）运行
